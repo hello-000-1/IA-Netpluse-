@@ -264,25 +264,12 @@ export async function handler(chatUpdate) {
 
   global.dfail = (type, m, usedPrefix, command, conn) => {
     const msg = {
-        rowner: `🛑 *ACCESO RESTRINGIDOΩ*\n\n> Solo el *Creador Supremo* puede ejecutar este protocolo.\n\n🧬 Usuario Autorizado: 👑 𝑬𝒍𝒗𝒊𝒔 𝑭𝒔𝒐𝒄𝒊𝒆𝒕𝒚\n🔗 Sistema: root@asTa-bot://omega/core`,
-        owner: `⚙️🔒 *MÓDULO DEV: ACCESO BLOQUEADO*\n\n> Esta función está anclada a permisos de *𝙳𝙴𝚂𝙰𝚁𝚁𝙾𝙻𝙻𝙰𝙳𝙾𝚁*.\n\n🧠 Consola de Seguridad: dev@asta.ai/core.sh`,
+        rowner: `🛑 *ACCESO DENEGADO*\n\n> Solo el *ADMINISTRADOR* puede ejecutar este protocolo.\n\n🧬 Usuario Autorizado: 👑 𝑬𝒍𝒗𝒊𝒔 𝑭𝒔𝒐𝒄𝒊𝒆𝒕𝒚\n🔗 Sistema: root@kali:/netpluse$`,
+        owner: `⚙️🔒 *MÓDULO DEV: ACCESO BLOQUEADO*\n\n> Esta función está anclada a permisos de *𝙳𝙴𝚂𝙰𝚁𝚁𝙾𝙻𝙻𝙰𝙳𝙾𝚁*.\n\n🧠 Consola de Seguridad: dev@netpluse.ai/txt.sh`,
         premium: `*REQUIERE CUENTA PREMIUM*\n\n> 🚫 Módulo exclusivo para usuarios *𝙑𝙄𝙋 - 𝙋𝙍𝙀𝙈𝙄𝙐𝙈*.\n\n📡 Actualiza tu plan con: */vip*\n⚙️ Estado: denegado`,
         private: `🔒 *SOLO CHAT PRIVADO* 📲\n\n> Este comando no puede ejecutarse en grupos por razones de seguridad.\n\n🧬 Ejecuta este protocolo directamente en el chat privado.`,
         admin: `🛡️ *FUNCIÓN RESTRINGIDA*\n\n> Solo los administradores del *Grupo* tienen acceso.\n\n⚠️ Intento no autorizado.`,
-        unreg: `🤖✨ ¡Hola, buenas! Soy Netpluse* Bot*
-
-Estoy aquí para ayudar en el grupo 😎
-Puedo descargar videos de varias plataformas 📥🎬
-
-📌 *Funciones principales:*
-• Descargar videos de YouTube, TikTok, Facebook y más 🔥
-• Obtener audios 🎧
-• Responder comandos útiles ⚡
-Y muchos mas...
-
-⚠️ Usa los comandos correctamente para evitar errores
-
-Visite nuestra pagina web para mas informacion: https://ia-netpluse-fs.vercel.app\n\n>🧾 *NO REGISTRADO EN EL SISTEMA*\n\n> 🚫 *Acceso denegado:* No puedes usar los comandos sin registrarte.\n\n🔐 Regístrate con: */reg nombre.edad*\n📍 Ejemplo: */reg Ares.21*\n\n> 🥷🏻 *Instagram oficial del creador del bot  :*\nhttps://www.instagram.com/elvis_s.f\n\n📂 *Creador del bot:* Elvis SF`,
+        unreg: `\n> 🤖✨ ¡Hola, Buenas! Soy *Netpluse SF*\n\nEstoy aquí para lo que necesites😎\nPuedo descargar videos de varias plataformas 📥\n\n📌 *Funciones principales:*\n🔴 Descargar videos de YouTube\n ⚫ Descargar videos deTikTok \n 🔵 Facebook y más 🔥\n🎧 Obtener audios \n ⚙️ Responder comandos útiles ⚡\n\n🧾 *NO REGISTRADO EN EL SISTEMA*\n\n> 🚫 *Acceso Denegado:* No puedes usar los comandos sin registrarte.\n\n🔐 Regístrate con: */reg nombre.edad*\n📍 Ejemplo: */reg Ares.21*\n\n> 🥷🏻 *Instagram oficial del creador del bot  :*\nhttps://www.instagram.com/elvis_s.f\n\n📂 *Creador del bot:* Elvis SF`,
         restrict: `🚷 *FUNCIÓN GLOBALMENTE BLOQUEADA*\n\n> Este comando fue deshabilitado por el *Operador Global* por motivos de seguridad cibernética.\n\n🔧 Módulo: /xvideos`
         }[type];
 if (msg) return m.reply(msg).then(_ => m.react('✖️'))}

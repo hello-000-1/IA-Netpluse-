@@ -1,7 +1,7 @@
 {
   "users": {
     "51928567606@s.whatsapp.net": {
-      "exp": 14422,
+      "exp": 13866,
       "monedas": 10,
       "joincount": 1,
       "diamond": 3,
@@ -36,8 +36,8 @@
       "level": 0,
       "bank": 0,
       "warn": 0,
-      "money": 12100,
-      "commands": 33,
+      "money": 11650,
+      "commands": 24,
       "followed": true,
       "country": "Spade",
       "afinidad": "🌑 Oscuridad",
@@ -424,7 +424,7 @@
       "money": null
     },
     "218107633217561@s.whatsapp.net": {
-      "exp": 1402,
+      "exp": 1224,
       "monedas": 10,
       "joincount": 1,
       "diamond": 3,
@@ -459,7 +459,7 @@
       "level": 0,
       "bank": 0,
       "warn": 0,
-      "money": 1150
+      "money": 1000
     },
     "7069902082187@s.whatsapp.net": {
       "exp": 108,
@@ -912,7 +912,7 @@
       "money": 50
     },
     "211111047655628@s.whatsapp.net": {
-      "exp": 159,
+      "exp": 276,
       "monedas": 10,
       "joincount": 1,
       "diamond": 3,
@@ -947,7 +947,7 @@
       "level": 0,
       "bank": 0,
       "warn": 0,
-      "money": 100
+      "money": 200
     },
     "127007132221516@lid": {
       "exp": 55,
@@ -987,7 +987,7 @@
       "money": null
     },
     "218107633217561@lid": {
-      "exp": 717,
+      "exp": 548,
       "monedas": 10,
       "joincount": 1,
       "diamond": 3,
@@ -1021,11 +1021,11 @@
       "level": 0,
       "bank": 0,
       "warn": 0,
-      "money": 600,
-      "commands": 11
+      "money": 450,
+      "commands": 8
     },
     "211111047655628@lid": {
-      "exp": 55,
+      "exp": 161,
       "monedas": 10,
       "joincount": 1,
       "diamond": 3,
@@ -1059,8 +1059,8 @@
       "level": 0,
       "bank": 0,
       "warn": 0,
-      "money": null,
-      "commands": 1
+      "money": 100,
+      "commands": 3
     },
     "2440229306576@lid": {
       "exp": 902,
@@ -1100,7 +1100,7 @@
       "money": 750
     },
     "51939467706@s.whatsapp.net": {
-      "exp": 114,
+      "exp": 907,
       "monedas": 10,
       "joincount": 1,
       "diamond": 3,
@@ -1135,8 +1135,8 @@
       "level": 0,
       "bank": 0,
       "warn": 0,
-      "money": 50,
-      "commands": 2
+      "money": 750,
+      "commands": 15
     },
     "41657676378143@s.whatsapp.net": {
       "exp": 54,
@@ -3059,7 +3059,7 @@
       "money": 50
     },
     "12895300531@s.whatsapp.net": {
-      "exp": 1719,
+      "exp": 1506,
       "monedas": 10,
       "joincount": 1,
       "diamond": 3,
@@ -3094,8 +3094,8 @@
       "level": 0,
       "bank": 0,
       "warn": 0,
-      "money": 1450,
-      "commands": 11
+      "money": 1250,
+      "commands": 9
     },
     "271459415015627@s.whatsapp.net": {
       "exp": 386,
@@ -4389,10 +4389,10 @@
   },
   "stats": {
     "bot-ping.js": {
-      "total": 45,
-      "success": 45,
-      "last": 1773715242756,
-      "lastSuccess": 1773715242756
+      "total": 52,
+      "success": 52,
+      "last": 1773770166694,
+      "lastSuccess": 1773770166694
     },
     "config-nable.js": {
       "total": 4,
@@ -4407,10 +4407,10 @@
       "lastSuccess": 1773245023630
     },
     "rg-register.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1773715339261,
-      "lastSuccess": 1773715339261
+      "total": 2,
+      "success": 2,
+      "last": 1773245009317,
+      "lastSuccess": 1773245009317
     },
     "Grupo•demote.js": {
       "total": 1,
@@ -4425,16 +4425,10 @@
       "lastSuccess": 1773688766943
     },
     "Owner•exec.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1773692916067,
-      "lastSuccess": 1773692916067
-    },
-    "rg-perfil.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1773715329662,
-      "lastSuccess": 1773715329662
+      "total": 4,
+      "success": 4,
+      "last": 1773769520369,
+      "lastSuccess": 1773769520369
     }
   },
   "msgs": {},
