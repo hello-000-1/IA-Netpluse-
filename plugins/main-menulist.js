@@ -4,7 +4,7 @@ const handler = async (m, { conn }) => {
     {  
       title: '🎃 Menú list ♱',  
       rows: [  
-        { title: '🕸️ Męñü2', id: '.menú2', description: 'Ĕxplørą todos los hęchizos y cømandøs del bø†' },  
+        { title: '🕸️ Męñü2', id: '.menulist', description: 'Ĕxplørą todos los hęchizos y cømandøs del bø†' },  
         { title: '💀 Cødę', id: '.code', description: 'Hęrrąmientas y cødigos mąlditøs' },  
         { title: '🧛‍♂️ Męnü RPG', id: '.menurpg', description: 'Åventūras y cømåndøs RPG ţerrøríficos' },  
         { title: '👑 Øwner', id: '.owner', description: 'Cøntáctø dęl ądmînïstrådør dęl bø†' },  
@@ -58,7 +58,7 @@ Bïęnvęnïdø ąl męñú ęmbrųjądø dę Hålłøwęęn:
   m.react('✅')  
 }  
 
-handler.command = ['menulist',]  
+handler.command = ['menu',]  
 handler.tags = ['grupos']  
 handler.group = true  
 

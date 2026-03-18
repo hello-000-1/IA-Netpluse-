@@ -224,7 +224,8 @@ export async function handler(chatUpdate) {
         } catch (e) {
           m.error = e;
           let text = format(e);
-          for (let key of Object.values(global.APIKeys)) text = text.replace(new RegExp(key, 'g'), 'Administrador');
+          for (let key of Object.values(global.APIKeys || {}))
+            text = text.replace(new RegExp(key, 'g'), 'Administrador');
           m.reply(text);
         } finally {
           if (typeof plugin.after === 'function') await plugin.after.call(this, m, extra).catch(console.error);
@@ -265,7 +266,7 @@ export async function handler(chatUpdate) {
   global.dfail = (type, m, usedPrefix, command, conn) => {
     const msg = {
         rowner: `🛑 *ACCESO DENEGADO*\n\n> Solo el *ADMINISTRADOR* puede ejecutar este protocolo.\n\n🧬 Usuario Autorizado: 👑 𝑬𝒍𝒗𝒊𝒔 𝑭𝒔𝒐𝒄𝒊𝒆𝒕𝒚\n🔗 Sistema: root@kali:/netpluse$`,
-        owner: `⚙️🔒 *MÓDULO DEV: ACCESO BLOQUEADO*\n\n> Esta función está anclada a permisos de *𝙳𝙴𝚂𝙰𝚁𝚁𝙾𝙻𝙻𝙰𝙳𝙾𝚁*.\n\n🧠 Consola de Seguridad: dev@netpluse.ai/txt.sh`,
+        owner: `⚙️🔒 *MÓDULO DEV: ACCESO BLOQUEADO*\n\n> Esta función está anclada a permisos de *𝙳𝙳𝚂𝙰𝚁𝚁𝙾𝙻𝙻𝙰𝙳𝙾𝚁*.\n\n🧠 Consola de Seguridad: dev@netpluse.ai/txt.sh`,
         premium: `*REQUIERE CUENTA PREMIUM*\n\n> 🚫 Módulo exclusivo para usuarios *𝙑𝙄𝙋 - 𝙋𝙍𝙀𝙈𝙄𝙐𝙈*.\n\n📡 Actualiza tu plan con: */vip*\n⚙️ Estado: denegado`,
         private: `🔒 *SOLO CHAT PRIVADO* 📲\n\n> Este comando no puede ejecutarse en grupos por razones de seguridad.\n\n🧬 Ejecuta este protocolo directamente en el chat privado.`,
         admin: `🛡️ *FUNCIÓN RESTRINGIDA*\n\n> Solo los administradores del *Grupo* tienen acceso.\n\n⚠️ Intento no autorizado.`,

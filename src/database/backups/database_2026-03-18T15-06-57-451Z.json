@@ -1,0 +1,76 @@
+{
+  "users": {
+    "12895300531@s.whatsapp.net": {
+      "exp": 0,
+      "monedas": 10,
+      "joincount": 1,
+      "diamond": 3,
+      "lastadventure": 0,
+      "lastclaim": 0,
+      "health": 100,
+      "crime": 0,
+      "lastcofre": 0,
+      "lastdiamantes": 0,
+      "lastpago": 0,
+      "lastcode": 0,
+      "lastcodereg": 0,
+      "lastduel": 0,
+      "lastmining": 0,
+      "muto": false,
+      "premium": false,
+      "premiumTime": 0,
+      "registered": false,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": "",
+      "packstickers": null,
+      "name": "Elvis-SF",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "role": "Nuv",
+      "banned": false,
+      "useDocument": false,
+      "level": 0,
+      "bank": 0,
+      "warn": 0
+    }
+  },
+  "chats": {
+    "120363422886607531@g.us": {
+      "isBanned": false,
+      "sAutoresponder": "",
+      "welcome": true,
+      "autolevelup": false,
+      "autoAceptar": true,
+      "autosticker": false,
+      "autoRechazar": true,
+      "autoresponder": false,
+      "detect": true,
+      "antiBot": true,
+      "antiBot2": true,
+      "modoadmin": false,
+      "antiLink": true,
+      "reaction": false,
+      "nsfw": false,
+      "antifake": false,
+      "delete": false,
+      "expired": 0
+    }
+  },
+  "stats": {},
+  "msgs": {},
+  "sticker": {},
+  "settings": {
+    "12895300531@s.whatsapp.net": {
+      "self": false,
+      "restrict": true,
+      "jadibotmd": true,
+      "antiPrivate": false,
+      "autoread": false,
+      "status": 0
+    }
+  }
+}

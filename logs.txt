@@ -1,0 +1,166 @@
+[3/18/2026, 3:14:38 PM] +1 289-530-0531 ~Elvis-SF > ╭─ [1m✅ LIMPIEZA COMPLETADA[22m ✅ ─╮
+│
+├ 🧹 Carpeta tmp: Limpiada
+├ 📋 logs.txt: Eliminado
+├ 🗑️ Base de datos: Vaciada
+│
+├ ⏱️ Tiempo: 0.00s
+│
+╰─────────────────────────────╯
+[3/18/2026, 3:14:47 PM] +51 939 467 706 ~Elvis > .reg siguiendo
+[3/18/2026, 3:14:47 PM] +1 289-530-0531 ~Elvis-SF > ✅ ¡Perfecto! Verificado que sigues a TheCarlosZX.
+Ahora puedes usar [1m.reg Nombre.Edad[22m para registrarte.
+[3/18/2026, 3:14:57 PM] +51 939 467 706 ~Elvis > .reg Jose.20
+[3/18/2026, 3:15:18 PM] +1 289-530-0531 ~Elvis-SF > 〘 [1mSistema Mágico [22m 〙📖
+
+🔒 Detectando energía mágica...
+⏳ Analizando grimorio del portador...
+💠 Sincronizando con el maná...
+
+✨✨✨ 𝙰𝙲𝚃𝙸𝚅𝙰𝙲𝙸𝙾́𝙽 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙰 ✨✨✨
+
+[1mEl grimorio se ha abierto...[22m
+[3/18/2026, 3:15:18 PM] +51 939 467 706 ~Elvis > .perfil
+[3/18/2026, 3:16:12 PM] +51 939 467 706 ~Elvis > .reg
+[3/18/2026, 3:16:12 PM] +1 289-530-0531 ~Elvis-SF > ⚠️ Ya estás registrado.
+Usa [1m.perfil[22m para ver tu grimorio.
+[3/18/2026, 3:16:16 PM] +1 289-530-0531 ~Elvis-SF > 〘 [1mSistema Mágico [22m 〙📖
+
+🔒 Detectando energía mágica...
+⏳ Analizando grimorio del portador...
+💠 Sincronizando con el maná...
+
+✨✨✨ 𝙰𝙲𝚃𝙸𝚅𝙰𝙲𝙸𝙾́𝙽 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙰 ✨✨✨
+
+[1mEl grimorio se ha abierto...[22m
+[3/18/2026, 3:16:18 PM] +51 939 467 706 ~Elvis > .perfil
+[3/18/2026, 3:16:18 PM] +1 289-530-0531 ~Elvis-SF > 『 ＧＲＩＭＯＲＩＯ ＢＡＳＥ 』📕
+
+⚔️ [1mPortador:[22m Elvis
+🆔 [1mIdentificador:[22m [35m@Elvis[39m
+📜 [1mRegistrado:[22m ✅ Activado
+
+🧪 [1mEstado Mágico:[22m
+⚡ [1mNivel:[22m 0
+✨ [1mExperiencia:[22m 316
+📈 [1mRango:[22m Nuv
+🔮 [1mPremium:[22m ❌ No activo
+
+📔 [1mGrimorio:[22m Básico de 1 hoja 📘
+🔒 [1mElemento:[22m Desconocido
+
+📌 Mejora tu grimorio para desbloquear más magia...
+
+━━━━━━━━━━━━━━━━━━
+[3/18/2026, 3:17:12 PM] +51 939 467 706 ~Elvis > .ping
+[3/18/2026, 3:17:13 PM] +1 289-530-0531 ~Elvis-SF > ˚₊·—̳͟͞͞✞ [1mPing del Bot[22m
+
+✞ Velocidad:
+> ⤿ 0.0014 ms
+
+✞ Actividad:
+> ⤿ 00:54:21
+
+✞ Chats:
+> ⤿ 2 Chats privados
+> ⤿ 1 Grupos
+
+✞ Servidor:
+> ⤿ RAM: 4.88 GB / 7.76 GB
+
+ᥫ᭡ Información en tiempo real
+[3/18/2026, 3:17:50 PM] +51 939 467 706 ~Elvis > .ping
+[3/18/2026, 3:17:50 PM] +1 289-530-0531 ~Elvis-SF > ˚₊·—̳͟͞͞✞ [1mPing del Bot[22m
+
+✞ Velocidad:
+> ⤿ 0.0012 ms
+
+✞ Actividad:
+> ⤿ 00:54:59
+
+✞ Chats:
+> ⤿ 2 Chats privados
+> ⤿ 1 Grupos
+
+✞ Servidor:
+> ⤿ RAM: 4.86 GB / 7.76 GB
+
+ᥫ᭡ Información en tiempo real
+[3/18/2026, 3:18:07 PM] undefined > .ping
+[3/18/2026, 3:18:07 PM] +1 289-530-0531 ~Elvis-SF > 
+> 🤖✨ ¡Hola, Buenas! Soy [1mNetpluse SF[22m
+
+Estoy aquí para lo que necesites😎
+Puedo descargar videos de varias plataformas 📥
+
+📌 [1mFunciones principales:[22m
+🔴 Descargar videos de YouTube
+ ⚫ Descargar videos deTikTok 
+ 🔵 Facebook y más 🔥
+🎧 Obtener audios 
+ ⚙️ Responder comandos útiles ⚡
+
+🧾 [1mNO REGISTRADO EN EL SISTEMA[22m
+
+> 🚫 [1mAcceso Denegado:[22m No puedes usar los comandos sin registrarte.
+
+🔐 Regístrate con: [1m/reg nombre.edad[22m
+📍 Ejemplo: [1m/reg Ares.21[22m
+
+> 🥷🏻 [1mInstagram oficial del creador del bot  :[22m
+[94mhttps://www.instagram.com/elvis_s.f[39m
+
+📂 [1mCreador del bot:[22m Elvis SF
+[3/18/2026, 3:18:08 PM] +1 289-530-0531 ~Elvis-SF > ✖️
+[3/18/2026, 3:18:38 PM] undefined > .ping
+[3/18/2026, 3:18:39 PM] +1 289-530-0531 ~Elvis-SF > 
+> 🤖✨ ¡Hola, Buenas! Soy [1mNetpluse SF[22m
+
+Estoy aquí para lo que necesites😎
+Puedo descargar videos de varias plataformas 📥
+
+📌 [1mFunciones principales:[22m
+🔴 Descargar videos de YouTube
+ ⚫ Descargar videos deTikTok 
+ 🔵 Facebook y más 🔥
+🎧 Obtener audios 
+ ⚙️ Responder comandos útiles ⚡
+
+🧾 [1mNO REGISTRADO EN EL SISTEMA[22m
+
+> 🚫 [1mAcceso Denegado:[22m No puedes usar los comandos sin registrarte.
+
+🔐 Regístrate con: [1m/reg nombre.edad[22m
+📍 Ejemplo: [1m/reg Ares.21[22m
+
+> 🥷🏻 [1mInstagram oficial del creador del bot  :[22m
+[94mhttps://www.instagram.com/elvis_s.f[39m
+
+📂 [1mCreador del bot:[22m Elvis SF
+[3/18/2026, 3:18:39 PM] +1 289-530-0531 ~Elvis-SF > ✖️
+[3/18/2026, 3:19:05 PM] undefined > .ia hola
+[3/18/2026, 3:19:06 PM] +1 289-530-0531 ~Elvis-SF > 
+> 🤖✨ ¡Hola, Buenas! Soy [1mNetpluse SF[22m
+
+Estoy aquí para lo que necesites😎
+Puedo descargar videos de varias plataformas 📥
+
+📌 [1mFunciones principales:[22m
+🔴 Descargar videos de YouTube
+ ⚫ Descargar videos deTikTok 
+ 🔵 Facebook y más 🔥
+🎧 Obtener audios 
+ ⚙️ Responder comandos útiles ⚡
+
+🧾 [1mNO REGISTRADO EN EL SISTEMA[22m
+
+> 🚫 [1mAcceso Denegado:[22m No puedes usar los comandos sin registrarte.
+
+🔐 Regístrate con: [1m/reg nombre.edad[22m
+📍 Ejemplo: [1m/reg Ares.21[22m
+
+> 🥷🏻 [1mInstagram oficial del creador del bot  :[22m
+[94mhttps://www.instagram.com/elvis_s.f[39m
+
+📂 [1mCreador del bot:[22m Elvis SF
+[3/18/2026, 3:19:07 PM] +1 289-530-0531 ~Elvis-SF > ✖️
