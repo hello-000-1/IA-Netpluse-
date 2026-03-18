@@ -56,7 +56,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
         return conn.sendMessage(m.chat, { text: `❌ No detecto que sigas a mi creador\n\n👉 https://www.instagram.com/elvis_s.f\n\nCuando lo sigas escribe:\n*${usedPrefix + command} ${followKey}*` }, { quoted: m })
       }
       user.followed = true
-      return conn.sendMessage(m.chat, { text: `✅ ¡Perfecto! Verificado que sigues a TheCarlosZX.\nAhora puedes usar *${usedPrefix + command} Nombre.Edad* para registrarte.` }, { quoted: m })
+      return conn.sendMessage(m.chat, { text: `✅ ¡Perfecto! Verificado que sigues a ElvisSF.\nAhora puedes usar *${usedPrefix + command} Nombre.Edad* para registrarte.` }, { quoted: m })
     }
 
     return conn.sendMessage(m.chat, { text: `⚠️ Para poder usar el bot primero debes seguir a mi creador en Instagram:\n\n👉 https://www.instagram.com/elvis_s.f\n\nDespués de seguirlo, escribe:\n\n*${usedPrefix + command} ${followKey}*` }, { quoted: m })
@@ -131,7 +131,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
     },
     externalAdReply: {
       showAdAttribution: false,
-      title: `📜 registro clover`,
+      title: `📜 Registro de Usuario ${name}`,
       body: `✡︎ IA-Netpluse • Elvis SF`,
       mediaType: 2,
       sourceUrl: global.redes || '',

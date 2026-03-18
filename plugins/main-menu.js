@@ -47,8 +47,8 @@ const loadMenuMedia = jid => {
 const fetchBuffer = async url =>
   Buffer.from(await (await fetch(url)).arrayBuffer())
 
-const defaultThumb = await fetchBuffer('https://files.catbox.moe/aoxdb6.jpg')
-const defaultVideo = await fetchBuffer('https://files.catbox.moe/jkokln.mp4')
+const defaultThumb = await fetchBuffer('https://files.catbox.moe/tpufpt.jpg')
+const defaultVideo = await fetchBuffer('https://files.catbox.moe/u7bfzv.mp4')
 
 let handler = async (m, { conn, usedPrefix }) => {
   await conn.sendMessage(m.chat, { react: { text: '⚔️', key: m.key } })
@@ -122,7 +122,7 @@ let handler = async (m, { conn, usedPrefix }) => {
         title: menuMedia.menuTitle || '𝐈𝐚𝐍𝐞𝐭𝐩𝐥𝐮𝐬𝐞 | SF',
         body: 'ִ┊̻̳̳࣪͋͋͋͋͋̓͋͋͋̓̓͋͋͌̈́𖡹⃞⃣ • 𝗘𝗹𝘃𝗶𝘀 𝗦𝗙 ♱',
         thumbnail: uniqueThumb,
-        sourceUrl: 'https://github.com/thecarlos19/IA-Netpluse',
+        sourceUrl: 'https://github.com/hello-000-1/IA-Netpluse-',
         mediaType: 1,
         renderLargerThumbnail: true
       }

@@ -21,21 +21,21 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/thecarlos19/IA-Netpluse",
+  "homepage": "https://github.com/hello-000-1/IA-Netpluse-.git",
   "author": {
-    "name": "thecarlos19"
+    "name": "Elvis-sf"
   },
   "collaborators": {
-    "col1": "Antuan",
-    "col2": "Russell",
-    "col3": "Edgar"
+    "col1": "elvis",
+    "col2": "River",
+    "col3": "erwin"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thecarlos19/IA-Netpluse.git"
+    "url": "git+https://github.com/hello-000-1/IA-Netpluse.git"
   },
   "bugs": {
-    "url": "https://github.com/thecarlos19/IA-Netpluse/issues"
+    "url": "https://github.com/hello-000-1/IA-Netpluse.git/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {

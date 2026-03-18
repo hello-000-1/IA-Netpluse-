@@ -4,14 +4,14 @@ const handler = async (m, { conn }) => {
     {  
       title: '🎃 Menú list ♱',  
       rows: [  
-        { title: '🕸️ Męñü2', id: '.menulist', description: 'Ĕxplørą todos los hęchizos y cømandøs del bø†' },  
-        { title: '💀 Cødę', id: '.code', description: 'Hęrrąmientas y cødigos mąlditøs' },  
-        { title: '🧛‍♂️ Męnü RPG', id: '.menurpg', description: 'Åventūras y cømåndøs RPG ţerrøríficos' },  
-        { title: '👑 Øwner', id: '.owner', description: 'Cøntáctø dęl ądmînïstrådør dęl bø†' },  
-        { title: '📡 Êstädø', id: '.estado', description: 'Mïrå ęl ęstädø åctuål dęl bø†' },  
-        { title: '🎵 Plåy', id: '.play', description: 'Ręprødúcę músîcå dęspuės dę Hålłøwęęn 🎧' },  
-        { title: '⚙️ Ênãble', id: '.enable', description: 'Åctîvå functîønęs ęspęcíålęs dęl bø†' },  
-        { title: '💡 Øn', id: '.on', description: 'Êncíéndę módøs y funcîønęs ęn łînéå' }  
+        { title: '🕸️ Menu', id: '.menulist', description: 'Menu principal general del bot' },  
+        { title: '💀 Code', id: '.code', description: 'Herramientas y sub-bots' },  
+        { title: '🧛‍♂️ Menu RPG', id: '.menurpg', description: 'Juegos RPG y otros' },  
+        { title: '👑 Øwner', id: '.owner', description: 'Menu del propietario del bot' },  
+        { title: '📡 EStado', id: '.estado', description: 'Analisis del estado de conexión' },  
+        { title: '🎵 Play', id: '.play', description: 'Descarga musicas de plataformas populares' },  
+        { title: '⚙️ Enable', id: '.enable', description: 'Funciones especiales del bot ADMIN' },  
+        { title: '💡 ON', id: '.on', description: 'Activa/Desactiva modos de actividad' }  
       ]  
     }  
   ]  
@@ -22,28 +22,32 @@ const handler = async (m, { conn }) => {
         messageContextInfo: { deviceListMetadata: {}, deviceListMetadataVersion: 2 },  
         interactiveMessage: {  
           body: {   
-            text: `*Błąçk - Cløvęr Bø†* ☣️
+            text: `*IA-NETPLUSE SF*
 
-Bïęnvęnïdø ąl męñú ęmbrųjądø dę Hålłøwęęn:
+Bienvenido *,${m.pushName}* al sistema inteligente IA-NETPLUSE
 
-- 🕸️ Ęxplørą tødøs løs hęchîzøs y cømåndøs  
-- 💀 Cønvîërtę ën ël męjór süb-bø†s  
-- 🧛‍♂️ Åventúråtę ën ël męñú RPG øscürø y dîvęrtîdø  
+/↪ 📥 Descarga contenido de múltiples plataformas
+↪ 🎮 Disfruta de un sistema RPG interactivo
+↪ 🤖 Utiliza funciones con Inteligencia Artificial
+↪ 🔍 Realiza búsquedas rápidas y eficientes
+↪ 🎬 Accede a entretenimiento y juegos
+↪ ⚙️ Convierte y gestiona contenido multimedia
+↪ 🛡️ Mantén el control con herramientas de moderación
 
-Şęlęcçïøną üñą òpciøn:`   
+Seleccione una opción para continuar:`   
           },  
-          footer: { text: '𝐈𝐚𝐍𝐞𝐭𝐩𝐥𝐮𝐬𝐞 ☘︎ | ⚔️🥷 Ėdïçïón Glïtch Hålløwęęn' },  
+          footer: { text: '𝐈𝐚𝐍𝐞𝐭𝐩𝐥𝐮𝐬 | EDICION- IA NETPLUSE' },  
           header: {  
             type: 'IMAGE',  
             imageUrl: 'https://i.imgur.com/3fJ1P1b.png',  
-            title: ' Męñú Bląçk Cløvęr 🥷🏻'  
+            title: ' Menu Principal Del bot'  
           },  
           nativeFlowMessage: {  
             buttons: [  
               {  
                 name: 'single_select',  
                 buttonParamsJson: JSON.stringify({  
-                  title: '📂 Ęlïģîř òpcïøn',  
+                  title: '📂 Elige una opcion',  
                   sections  
                 })  
               }  

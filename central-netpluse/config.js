@@ -56,12 +56,12 @@ global.monedas = 'monedas';
 
 //*─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─*
 global.gp1 = 'https://chat.whatsapp.com/IbADO35sBSC4G1FBTGbHIE?mode=ac_t';
-global.gp2 = 'https://chat.whatsapp.com/FiBcPMYEO7mG4m16gBbwpP?mode=ac_t';
-global.comunidad1 = 'https://chat.whatsapp.com/FgQ4q11AjaO8ddyc1LvK4r?mode=ac_t';
-global.channel = 'https://whatsapp.com/channel/0029VbB36XC8aKvQevh8Bp04';
+global.gp2 = 'https://chat.whatsapp.com/JuLJKgvbelfFubawZVS7po?mode=ac_t';
+global.comunidad1 = 'https://chat.whatsapp.com/FBhvm63vIluHcQa4qQofB4?mode=ac_t';
+global.channel = 'https://whatsapp.com/channel/0029VbBcXc8Chq6GmExvhU1l';
 global.cn = global.channel;
-global.yt = 'https://www.youtube.com/@ElCarlos.87';
-global.md = 'https://github.com/thecarlos19/black-clover-MD';
+global.yt = 'https://www.youtube.com/@elvis_fs';
+global.md = 'https://github.com/hello-000-1/IA-Netpluse-.git';
 global.correo = 'thecarlospcok@gmail.com';
 
 global.catalogo = fs.readFileSync(new URL('../src/catalogo.jpg', import.meta.url));
