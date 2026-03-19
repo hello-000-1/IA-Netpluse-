@@ -21,7 +21,7 @@ const handler = async (m, { conn, text }) => {
     message: {
       contactMessage: {
         displayName: '📡 Sistema Central',
-        vcard: `BEGIN:VCARD\nVERSION:3.0\nFN:Black Clover IA\nTEL;type=CELL:${conn.user.jid.split('@')[0]}\nEND:VCARD`
+        vcard: `BEGIN:VCARD\nVERSION:3.0\nFN:IA NETPLUSE IA\nTEL;type=CELL:${conn.user.jid.split('@')[0]}\nEND:VCARD`
       }
     }
   };
@@ -55,7 +55,7 @@ const handler = async (m, { conn, text }) => {
     }
   }
 
-  return m.reply(`✅ *Difusión completada:*\n📡 *Grupos alcanzados:* ${totalGrupos}\n🧠 *Sistema:* Black Clover IA`);
+  return m.reply(`✅ *Difusión completada:*\n📡 *Grupos alcanzados:* ${totalGrupos}\n🧠 *Sistema:* IA NETPLUSE IA`);
 };
 
 handler.help = ['bcgc2', 'bcg'];

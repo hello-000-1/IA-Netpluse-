@@ -22,7 +22,7 @@ let handler = async (m, { conn, args }) => {
         stiker = await sticker(
           media,
           false,
-          global.packsticker || 'Black Clover Pack',
+          global.packsticker || 'IA NETPLUSE Pack',
           global.author || 'By Elvis SF'
         )
         if (Buffer.isBuffer(stiker)) fs.writeFileSync(tmpPath, stiker)
@@ -35,7 +35,7 @@ let handler = async (m, { conn, args }) => {
         stiker = await sticker(
           false,
           out,
-          global.packsticker || 'Black Clover Pack',
+          global.packsticker || 'IA NETPLUSE Pack',
           global.author || 'By Elvis SF'
         )
         if (Buffer.isBuffer(stiker)) fs.writeFileSync(tmpPath, stiker)
@@ -45,7 +45,7 @@ let handler = async (m, { conn, args }) => {
         stiker = await sticker(
           false,
           args[0],
-          global.packsticker || 'Black Clover Pack',
+          global.packsticker || 'IA NETPLUSE Pack',
           global.author || 'By Elvis SF'
         )
         const tmpPath = path.join('./tmp', `${Date.now()}.webp`)

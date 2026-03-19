@@ -4,7 +4,7 @@ import { join } from 'path'
 import axios from 'axios'
 import Jimp from 'jimp'
 
-const name = "Descargas - black clover"
+const name = "Descargas - IA NETPLUSE"
 
 async function resizeImage(buffer, size = 300) {
   const img = await Jimp.read(buffer)

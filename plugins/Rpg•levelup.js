@@ -38,7 +38,7 @@ let handler = async (m, { conn }) => {
   txt += `• 🧬 Nivel anterior : ${before}\n`
   txt += `• 🧬 Nuevos niveles : ${user.level}\n`
   txt += `• 📅 Fecha : ${new Date().toLocaleString('id-ID')}\n\n`
-  txt += `🚩 *Nota:* _Cuanto más interactúes con *Black Clover*, más rápido subirás de nivel_`
+  txt += `🚩 *Nota:* _Cuanto más interactúes con *IA NETPLUSE*, más rápido subirás de nivel_`
 
   await conn.sendMessage(m.chat, {
     image: img,

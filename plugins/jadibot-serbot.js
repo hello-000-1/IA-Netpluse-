@@ -10,10 +10,10 @@ El codigo de este archivo fue parchado en su momento por:
 - BrunoSobrino >> https://github.com/BrunoSobrino
 
 El codigo fue modificado para IA-Netpluse:
-- IA-Netpluse (https://github.com/thecarlos19/IA-Netpluse)
+- IA-Netpluse (https://github.com/hello-000-1/IA-Netpluse)
 
 Adaptacion y edición echa por:
-- Elvis SF (https://github.com/thecarlos19)
+- Elvis SF (https://github.com/hello-000-1)
 
 ⚠ PROHIBIDO EDITAR ⚠ -- ⚠ PROHIBIDO EDITAR ⚠ -- ⚠ PROHIBIDO EDITAR ⚠
 */

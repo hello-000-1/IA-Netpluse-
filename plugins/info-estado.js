@@ -33,7 +33,7 @@ let handler = async (m, { conn, usedPrefix }) => {
   let blackclover = `
 ╭━━━━◇◇◇━━━━⬣
 ┃ ⚙️  *SISTEMA DE ESTADO*
-┃ 🔰 *BLACK CLOVER BOT* ⚔️
+┃ 🔰 *IA NETPLUSE BOT* ⚔️
 ╰━━━━◇◇◇━━━━⬣
 
 👑 *Creador:* the-carlos

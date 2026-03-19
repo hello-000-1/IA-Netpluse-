@@ -4,7 +4,7 @@ import Jimp from 'jimp'
 const baileys = (await import("@whiskeysockets/baileys")).default
 const { proto, generateWAMessageFromContent, generateWAMessageContent } = baileys
 
-const name = "Descargas - black clover"
+const name = "Descargas - IA NETPLUSE"
 
 async function resizeImage(buffer, size = 300) {
   const img = await Jimp.read(buffer)

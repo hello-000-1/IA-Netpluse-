@@ -3,7 +3,7 @@ const handler = async (m, { conn }) => {
  _*𝐈𝐚𝐍𝐞𝐭𝐩𝐥𝐮𝐬𝐞 *_ 🥷
 
 \`\`\`Repositorio OFC:\`\`\`
-https://github.com/thecarlos19/IA-Netpluse 
+https://github.com/hello-000-1/IA-Netpluse 
 
 > 🌟 Deja tu estrellita ayudaría mucho :D
 

@@ -3,7 +3,7 @@ const handler = async (m, { conn }) => {
 
 *⚄︎.- ${pickRandom(global.verdad)}*
 
-*◣ ──「  Black Clover 」── ◢*
+*◣ ──「  IA NETPLUSE 」── ◢*
   `, m, {
     contextInfo: global.rcanal
   });

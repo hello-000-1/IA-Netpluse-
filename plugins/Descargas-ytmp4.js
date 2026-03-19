@@ -4,7 +4,7 @@ import fetch from "node-fetch"
 import yts from "yt-search"
 import Jimp from "jimp"
 
-const name = "Descargas - black clover"
+const name = "Descargas - IA NETPLUSE"
 
 async function resizeImage(buffer, size = 300) {
   const img = await Jimp.read(buffer)

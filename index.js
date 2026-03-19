@@ -7,7 +7,7 @@ import cfonts from 'cfonts'
 import { createInterface } from 'readline'
 import chalk from 'chalk'
 
-console.log(chalk.bold.hex('#00FFFF')('\n✞─ Iniciando Black Clover IA ─✞'))
+console.log(chalk.bold.hex('#00FFFF')('\n✞─ Iniciando IA NETPLUSE IA ─✞'))
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const require = createRequire(__dirname)
@@ -20,7 +20,7 @@ const rl = createInterface({
 
 async function barraCargaCyberpunk() {
   const frames = [
-    '[⏳] Iniciando Black Clover...',
+    '[⏳] Iniciando IA NETPLUSE...',
     '[🔮] Reuniendo maná primitivo...',
     '[💾] Cargando hechizos prohibidos...',
     '[⚡] Sincronizando con demonios...',

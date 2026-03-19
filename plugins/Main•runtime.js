@@ -15,7 +15,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
           body: global.dev || '✡︎ Dev • Elvis SF',
           mediaType: 2,
           thumbnail: global.icons ? { url: global.icons } : null,
-          sourceUrl: global.channel || 'https://github.com/thecarlos19'
+          sourceUrl: global.channel || 'https://github.com/hello-000-1'
         }
       }
     },

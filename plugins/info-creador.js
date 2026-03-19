@@ -2,12 +2,12 @@ import PhoneNumber from 'awesome-phonenumber'
 
 let handler = async (m, { conn, usedPrefix, text, args, command }) => {
   let nomorown = '51928567606' // Propietario
-  let bio = (await conn.fetchStatus(nomorown + '@s.whatsapp.net').catch(_ => {}))?.status || 'Propietario del sistema Black Clover'
-  let biobot = (await conn.fetchStatus(conn.user.jid).catch(_ => {}))?.status || 'Bot Oficial Black Clover'
+  let bio = (await conn.fetchStatus(nomorown + '@s.whatsapp.net').catch(_ => {}))?.status || 'Propietario del sistema IA NETPLUSE'
+  let biobot = (await conn.fetchStatus(conn.user.jid).catch(_ => {}))?.status || 'Bot Oficial IA NETPLUSE'
 
   await sendContactArray(conn, m.chat, [
     [`${nomorown}`, `🥷🏻 Propietario`, `𝗘𝗹𝘃𝗶𝘀 SF`, dev, correo, `CDMX`, `${global.yt}`, bio],
-    [`${conn.user.jid.split('@')[0]}`, `Black Clover Bot 🤖`, `${packname}`, `📵 No Hacer Spam`, correo, `CDMX`, md, biobot],
+    [`${conn.user.jid.split('@')[0]}`, `IA NETPLUSE Bot 🤖`, `${packname}`, `📵 No Hacer Spam`, correo, `CDMX`, md, biobot],
     [`12895300531`, `Asistente clover`, `Bot Helper`, 'Soporte', correo, `CDMX`, md, biobot]
   ], m)
 

@@ -66,7 +66,7 @@ handler.all = async function (m) {
   global.done = '✅'
   global.error = '✖️'
 
-  //Emojis determinado de black clover 
+  //Emojis determinado de IA NETPLUSE 
   global.emoji = '🥷'
   global.emoji2 = '👻'
   global.emoji3 = '⚔️'
@@ -76,9 +76,9 @@ handler.all = async function (m) {
   //Enlaces
   var canal = 'https://whatsapp.com/channel/0029VbB36XC8aKvQevh8Bp04'  
   let canal2 = 'https://whatsapp.com/channel/0029VbB36XC8aKvQevh8Bp04'
-  var git = 'https://github.com/thecarlos19' 
+  var git = 'https://github.com/hello-000-1' 
   var youtube = '' 
-  var github = 'https://github.com/thecarlos19/IA-Netpluse' 
+  var github = 'https://github.com/hello-000-1/IA-Netpluse' 
   let correo = 'carloscristobal30@gmail.com'
   global.redes = pickRandom([canal, git, github, correo])
 
