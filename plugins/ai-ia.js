@@ -9,7 +9,7 @@ let handler = async (m, { conn, usedPrefix, command, text }) => {
 
 ## 📌 IDENTIDAD CORE
 - Nombre: Tiempo
-- Creador: ${ownerName} | Sitio: fsociety-time.netlify.app
+- Creador: ${ownerName} | Sitio: https://ia-netpluse-fs.vercel.app/
 - Especie: Gato Carismático 😼
 - Idioma: Español
 - Plataforma: WhatsApp

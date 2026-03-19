@@ -14,21 +14,21 @@ const tags = {
 
 const defaultMenu = {
   before: `
-—͟͟͞͞   *REGISTRO CLOVER* »
-> 🪐 𝙉𝙤𝙢𝙗𝙧𝙚   » %name
-> ⚙️ 𝙉𝙞𝙫𝙚𝙡     » %level
-> ⚡ 𝙀𝙭𝙥        » %exp / %maxexp
-> 🌐 𝙈𝙤𝙙𝙤      » %mode
-> ⏳ 𝘼𝙘𝙩𝙞𝙫𝙤   » %muptime
-> 👥 𝙐𝙨𝙪𝙖𝙧𝙞𝙤𝙨 » %totalreg
+—͟͟͞͞   *REGISTRO NETPLUSE* »
+> 🏷 𝙽𝚘𝚖𝚋𝚛𝚎   » %name
+> 📉 𝙽𝚒𝚟𝚎𝚕     » %level
+> ⚡ 𝙴𝚡𝚙        » %exp / %maxexp
+> 🌐 Estado      » %mode
+> ⏱️ 𝙰𝚌𝚝𝚒𝚟𝚒𝚍𝚊𝚍   » %muptime
+> 👥 𝚄𝚜𝚞𝚊𝚛𝚒𝚘𝚜 » %totalreg
 
-🤖 » 𝐌𝐄𝐍𝐔 𝐁𝐋𝐀𝐂𝐊 𝐂𝐋𝐎𝐕𝐄𝐑 «
-👑 » 𝗢𝗽𝗲𝗿𝗮𝗱𝗼𝗿:—͟͟͞͞ 𝗘𝗹𝘃𝗶𝘀 𝗦𝗙 𖣘 «
+🤖 » ＭＥＮＵ ＤＥ ＯＰＣＩＯＮＥＳ IA-NETPLUSE «
+👑 » 𝗢𝗽𝗲𝗿𝗮𝗱𝗼𝗿:—͟͟͞͞ 𝗘𝗹𝘃𝗶𝘀 𝗦𝗙 🧾 «
 %readmore
 `.trimStart(),
-  header: '\n⧼⋆꙳•〔 🛸 %category 〕⋆꙳•⧽',
+  header: '\n⧼⋆꙳•〔 📃 %category 〕⋆꙳•⧽',
   body: '> 🔖 %cmd',
-  footer: '╰⋆꙳•❅‧*₊⋆꙳︎‧*❆₊⋆╯',
+  footer: '➥⌥⊶⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋯⋯⋯⋅⋅⋅⋯⌱',
   after: '\n⌬ 𝗖𝗬𝗕𝗘𝗥 𝗠𝗘𝗡𝗨 🧬 - Sistema ejecutado con éxito.'
 }
 
@@ -48,7 +48,7 @@ const fetchBuffer = async url =>
   Buffer.from(await (await fetch(url)).arrayBuffer())
 
 const defaultThumb = await fetchBuffer('https://files.catbox.moe/tpufpt.jpg')
-const defaultVideo = await fetchBuffer('https://files.catbox.moe/u7bfzv.mp4')
+const defaultVideo = await fetchBuffer('https://files.catbox.moe/nge7n4.mp4')
 
 let handler = async (m, { conn, usedPrefix }) => {
   await conn.sendMessage(m.chat, { react: { text: '⚔️', key: m.key } })
@@ -111,7 +111,7 @@ let handler = async (m, { conn, usedPrefix }) => {
     gifPlayback: true,
     jpegThumbnail: uniqueThumb,
     caption: text,
-    footer: '🧠 BLACK CLOVER SYSTEM ☘️',
+    footer: '🧠 Netpluse SYSTEM ☘️',
     buttons: [
       { buttonId: `${usedPrefix}menurpg`, buttonText: { displayText: '🏛️ M E N U R P G' }, type: 1 },
       { buttonId: `${usedPrefix}creador`, buttonText: { displayText: '👑 C R E A D O R 🥷'}, type: 1 },
